@@ -2,9 +2,18 @@
 
 This is a Next JS starting base for a production ready application. It's built with es-lint, prettier, husky and github actions. The code is written in Typescript.
 
-## Base for this video
+## 文檔
 
-Check out this video to get more information: [https://youtu.be/IrPz0kd2FTk](https://youtu.be/IrPz0kd2FTk)
+[Prettier 文檔參考](https://juejin.cn/post/7403953367767384116)
+[學習進度](https://www.youtube.com/watch?v=IrPz0kd2FTk)
+0746
+
+## 用途
+
+
+`
+"@typescript-eslint/parser": "^4.22.0", 
+`
 
 ## My VS-Code settings
 
